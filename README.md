@@ -8,13 +8,7 @@ The objective of this project is to gain practical experience in building a full
   
 ## Live/Deployed Website  
 You can access the live version at [NextDoorBy](https://nextdoorby.netlify.app/)
-  
-## Contributors
-- Simran Kaur ([@simran0469](https://github.com/simran0469)) - Responsible for the product page and API data.
-- Anshuman Patel ([@patel-anshuman](https://github.com/patel-anshuman)) - Responsible for the landing page, individual product page, and cart cum payment page.
-- Sohel Rana Halder ([@sohelhld](https://github.com/sohelhld)) - Responsible for the login and admin side (product management).
 
-    
 ## Flow of Website  
 - Landing page: Displays featured products and promotional offers.  
 - Login page: Allows users to authenticate and access their accounts.  
@@ -37,6 +31,11 @@ The NextDoorBy Clone is designed to be fully responsive. The user interface and 
 The following features have not been implemented in this version of the NextDoorBy Clone:  
 - Orders History: The ability for users to view their order history.  
 - Account Dashboard: A user dashboard providing additional account-related features.  
-Please note that this project is purely for educational purposes and is not intended for commercial use or distribution.  
+Please note that this project is purely for educational purposes and is not intended for commercial use or distribution.
+
+## Contributors
+- Simran Kaur ([@simran0469](https://github.com/simran0469)) - Responsible for the product page and API data.
+- Anshuman Patel ([@patel-anshuman](https://github.com/patel-anshuman)) - Responsible for the landing page, individual product page, and cart cum payment page.
+- Sohel Rana Halder ([@sohelhld](https://github.com/sohelhld)) - Responsible for the login and admin side (product management).
   
 Feel free to reach out to any of the contributors mentioned above for any questions or feedback on this project. Happy exploring!  
