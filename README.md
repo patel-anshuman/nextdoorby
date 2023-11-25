@@ -7,7 +7,7 @@ NextDoorBy Clone is an educational project aimed at replicating the functionalit
 The objective of this project is to gain practical experience in building a full-stack web application, learn various technologies and frameworks involved in web development, and understand the core concepts of e-commerce platforms. By cloning NextDoorBy, we aim to showcase our skills in frontend and backend development, database management, and responsive web design.  
   
 ## Live/Deployed Website  
-You can access the live version of the NextDoorBy Clone at the following link: https://nextdoorby.netlify.app/  
+You can access the live version at [NextDoorBy](https://nextdoorby.netlify.app/)
   
 ## Contributors  
 - Simran Kaur ([@simran0469](https://github.com/simran0469)) - Responsible for the product page and API data.  
